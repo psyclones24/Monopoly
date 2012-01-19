@@ -1,0 +1,20 @@
+# Eclipse
+/.classpath
+/.project
+/.settings
+/.git
+.jardesc
+.launch
+
+# Netbeans
+/nbproject
+
+# Various other potential build files
+/build
+/bin
+/dist
+/manifest.mf
+/macros
+
+# Classes
+*.class
